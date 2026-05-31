@@ -6,3 +6,10 @@ libxrender1
 libgomp1
 libxcb-shm0
 libxcb-xfixes0
+pkg-config
+libavformat-dev
+libavcodec-dev
+libavdevice-dev
+libavutil-dev
+libswscale-dev
+libswresample-dev
