@@ -1,0 +1,27 @@
+# Model file besar — diunduh otomatis oleh aplikasi
+face_landmarker.task
+*.task
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
